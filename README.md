@@ -1,8 +1,8 @@
 ## Olá! 👋
 ### Bem vindo ao meu GitHub!
 
-- 🔭 Estou buscando uma oportunidade de estágio em desenvolvimento
-- 🌱 Estudando Java e Web Development
+### Sou estágiario de desenvovimento na Framework Digital.
+- 🌱 Estudando Web Development
 
  <div>
   <a href="https://github.com/\ThiagoSaviR">
