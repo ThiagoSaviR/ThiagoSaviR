@@ -1,7 +1,7 @@
 ## Olá! 👋
 ### Bem vindo ao meu GitHub!
 
-### Desenvovedor Junior na Framework Digital.
+### Desenvovedor Junior
 - 🌱 Estudando Web Development
 - 🌱 Estudando C# / .NET
 
